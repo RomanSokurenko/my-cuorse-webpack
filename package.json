@@ -1,0 +1,23 @@
+{
+  "name": "my-cuorse-webpack",
+  "version": "1.0.0",
+  "description": "webpack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanSokurenko/my-cuorse-webpack.git"
+  },
+  "author": "Roman <sokurenko.roman82@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanSokurenko/my-cuorse-webpack/issues"
+  },
+  "homepage": "https://github.com/RomanSokurenko/my-cuorse-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
